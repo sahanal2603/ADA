@@ -29,7 +29,7 @@ int main()
 				lpos = k;
 				k++;
 			}
-			cout<<"The first occurrence of the key is at"<<fpos<<" and last occurrence is at"<<lpos<<endl; 
+			cout<<"The first occurrence of the key is at "<<fpos<<" and last occurrence is at "<<lpos<<endl; 
 			count = lpos-fpos+1;
 			cout<<"The count is "<<count<<endl;		
 			break;
